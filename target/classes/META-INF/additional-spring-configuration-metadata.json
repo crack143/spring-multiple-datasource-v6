@@ -68,5 +68,80 @@
     "name": "mysql.datasource.driverClassName",
     "type": "java.lang.String",
     "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "dev.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'dev.datasource.jdbcUrl'"
+  },
+  {
+    "name": "dev.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'dev.datasource.driverClassName'"
+  },
+  {
+    "name": "spring.active.profiles",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.active.profiles'"
+  },
+  {
+    "name": "dev.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'dev.datasource.username'"
+  },
+  {
+    "name": "dev.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'dev.datasource.password'"
+  },
+  {
+    "name": "prod.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'prod.datasource.jdbcUrl'"
+  },
+  {
+    "name": "uat.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'uat.datasource.jdbcUrl'"
+  },
+  {
+    "name": "uat.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'uat.datasource.driverClassName'"
+  },
+  {
+    "name": "uat.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'uat.datasource.password'"
+  },
+  {
+    "name": "prod.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'prod.datasource.password'"
+  },
+  {
+    "name": "prod.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'prod.datasource.driverClassName'"
+  },
+  {
+    "name": "prod.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'prod.datasource.username'"
+  },
+  {
+    "name": "uat.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'uat.datasource.username'"
+  },
+  {
+    "name": "dev.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'dev.datasource.jdbcUrl'"
+  },
+  {
+    "name": "dev.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'dev.datasource.jdbcUrl'"
   }
 ]}
