@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "-Dorg.slf4j.simpleLogger.defaultLogLevel",
+    "type": "java.lang.String",
+    "description": "A description for '-Dorg.slf4j.simpleLogger.defaultLogLevel'"
+  },
+  {
+    "name": "liquibase.change-log",
+    "type": "java.lang.String",
+    "description": "A description for 'liquibase.change-log'"
+  },
+  {
+    "name": "mysql.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.username'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.jdbcUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.jdbcUrl'"
+  },
+  {
+    "name": "mysql.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.password'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  },
+  {
+    "name": "mysql.datasource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'mysql.datasource.driverClassName'"
+  }
+]}
